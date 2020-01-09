@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+p:hover {
+  color: orange;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+
+img {
+  margin-left: 120px;
+}
